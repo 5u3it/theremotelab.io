@@ -618,3 +618,9 @@ body {
   color: #702340;
   border-color: #702340;
 }
+
+.prezi {
+    width: 100%;
+    padding-bottom: 75%!important;
+
+}
