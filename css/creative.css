@@ -624,3 +624,35 @@ body {
     padding-bottom: 75%!important;
 
 }
+
+.trl-nav-pills {
+  display: inline-block;
+  margin-top: -26px;
+  padding: 0;
+  position: relative;
+  top: 50%;
+}
+
+.trl-nav-pills li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.trl-nav-pills li a {
+  color: #fb6900;
+  border: 1px solid #fff;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  padding: 0;
+  border-radius: 40px;
+  border-color: #fb6900;
+  -webkit-transition: all 0.9s ease;
+  transition: all 0.9s ease;
+}
+
+.trl-nav-pills li a:hover {
+  color: #fb6900;
+  border-color: #fb6900;
+}
