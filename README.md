@@ -1,26 +1,23 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# We are your remote lab!
+ 
+ Our Mantra: We're on a mission to make DevOps hassle-free. 
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+## Enterprise DevOps
 
-## Getting Started
+DevOps is a new approach to software development and deployment which
+emphasizes the interdependence of the development and operations
+teams. Bringing Dev and Ops closer together is crucial to keeping pace
+while still delivering solutions with certainty.
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+  We make sure we find the best tools, processes and people to deliver
+  solutions that allow clients to remain relevant, responsive and
+  reliable. We’ve helped clients adopt DevOps and improve their
+  business by:
 
-## Bugs and Issues
+  * Integrating the right tools
+  * Customized and collaborative approach
+  * Best talent pool
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+  Say [hello](http://theremotelab.io) or check out [current
+  openings](http://hasjob.co/theremotelab.com)
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-creative/blob/gh-pages/LICENSE) license.
